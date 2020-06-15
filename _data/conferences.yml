@@ -7,11 +7,11 @@
   timezone: America/Los_Angeles
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2021/
-  deadline:
-    - "2020-03-05 23:59"
-    - "2020-06-04 23:59"
-    - "2020-09-03 23:59"
-    - "2020-12-03 23:59"
+  deadline: "2020-03-05 23:59"
+#     - "2020-03-05 23:59"
+#     - "2020-06-04 23:59"
+#     - "2020-09-03 23:59"
+#     - "2020-12-03 23:59"
   place: San Francisco, California, USA
   sub: SE
   

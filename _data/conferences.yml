@@ -9,14 +9,7 @@
   timezone: America/Los_Angeles
   date: "May 23 – 27 2021"
   place: San Francisco, California, USA
-#   description: IEEE Symposium on Security and Privacy
-   sub: CV
-  
-#     - "2020-03-05 23:59"
-#     - "2020-06-04 23:59"
-#     - "2020-09-03 23:59"
-#     - "2020-12-03 23:59"
-
+  sub: CV
   
 - title: WACV
   hindex: 46

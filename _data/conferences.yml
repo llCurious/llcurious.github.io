@@ -1,19 +1,22 @@
 ---
 # # Security and Privacy
-# - title: S&P (Oakland)
-#   year: 2021
-#   id: sp21
-#   date: "May 23 – 27 2021"
-#   timezone: America/Los_Angeles
+- title: S&P (Oakland)
+  hindex: 46
+  year: 2021
+  id: sp21
+  link: https://www.ieee-security.org/TC/SP2021/
+  deadline: "2020-03-05 23:59:59"
+  timezone: America/Los_Angeles
+  date: "May 23 – 27 2021"
+  place: San Francisco, California, USA
 #   description: IEEE Symposium on Security and Privacy
-#   link: https://www.ieee-security.org/TC/SP2021/
-#   deadline: "2020-03-05 23:59"
-# #     - "2020-03-05 23:59"
-# #     - "2020-06-04 23:59"
-# #     - "2020-09-03 23:59"
-# #     - "2020-12-03 23:59"
-#   place: San Francisco, California, USA
-#   sub: CV
+   sub: CV
+  
+#     - "2020-03-05 23:59"
+#     - "2020-06-04 23:59"
+#     - "2020-09-03 23:59"
+#     - "2020-12-03 23:59"
+
   
 - title: WACV
   hindex: 46

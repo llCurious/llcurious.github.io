@@ -1,8 +1,10 @@
 ---
 # Security and Privacy
-- name: S&P (Oakland)
+- title: S&P (Oakland)
   year: 2021
+  id: sp21
   date: "May 23 – 27 2021"
+  timezone: America/Los_Angeles
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2021/
   deadline:
@@ -11,17 +13,7 @@
     - "2020-09-03 23:59"
     - "2020-12-03 23:59"
   place: San Francisco, California, USA
-  tags: [SEC, PRIV]
-
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2020
-  link: https://www.ieee-security.org/TC/EuroSP2020/
-  deadline: "2019-11-20 23:59"
-  comment: Voluntary Abstract Registration until 2019-10-22
-  date: "June 16 - June 18"
-  place: Genova, Italy
-  tags: [SEC, PRIV]
+  sub: SE
   
 - title: WACV
   hindex: 46

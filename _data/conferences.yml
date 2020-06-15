@@ -5,11 +5,11 @@
   year: 2021
   id: sp21
   link: https://www.ieee-security.org/TC/SP2021/
-  deadline: "2020-03-05 23:59:59"
+  deadline: "2020-09-03 23:59"
   timezone: America/Los_Angeles
   date: "May 23 – 27 2021"
   place: San Francisco, California, USA
-  sub: CV
+  sub: SP
   
 - title: WACV
   hindex: 46

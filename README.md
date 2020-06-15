@@ -1,6 +1,6 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+# Security and Privacy deadlines countdown
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 
 ## Contributing
 
@@ -17,15 +17,6 @@ To add or update a deadline:
     + See available timezone strings [here](https://momentjs.com/timezone/).
 - Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
 - Send a pull request
-
-## Forks & other useful listings
-
-- [geodeadlin.es][3] by @LukasMosser
-- [neuro-deadlines][4] by @tbryn
-- [ai-challenge-deadlines][5] by @dieg0as
-- [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
-- [es-deadlines (Embedded Systems, Computer Architecture, and Cyber-physical Systems)][9] by @AlexVonB and @k0nze
-- [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
 
 ## License
 

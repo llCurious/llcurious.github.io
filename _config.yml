@@ -1,15 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
+title: Secyruty & Privacy and AI Conference Deadlines # (Maintained by @llCurious)
 # email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+description: Countdowns to top NLP/ML/AI/SC/SJ conference deadlines
+author: Haoqi Wu 
 
-domain: "aideadlin.es"
+domain: "llcurious.github.io"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username: none
+twitter_hashtag: none
+github_username: llCurious
+github_repo: llCurious.github.io
 
 markdown: kramdown
 ga_id: UA-36274081-2

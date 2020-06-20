@@ -38,10 +38,21 @@
   year: 2021
   id: usenix21
   link: https://www.usenix.org/conference/usenixsecurity21
-  deadline: "2021-06-11 23:59"
+  deadline: "2020-10-15 23:59"
   comment: Rolling deadline every four months.
   date: "August 11-13"
   place: Vancouver, BC, Canada.
+  sub: SC
+  timezone: America/Los_Angeles
+  
+- title: NDSS
+  description: ISOC Network and Distributed System Security Symposium
+  year: 2021
+  id: ndss21
+  link: https://www.ndss-symposium.org/ndss-2021/
+  deadline: "2020-07-17 23:59"
+  date: February 21-24
+  place: San Diego, CA, USA
   sub: SC
   timezone: America/Los_Angeles
   

@@ -11,6 +11,17 @@
   place: San Francisco, California, USA
   sub: SC
 
+- title: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2020
+  id: EuSP21
+  link: https://www.ieee-security.org/TC/EuroSP2020/
+  deadline: "2019-11-20 23:59"
+  date: "June 16 - June 18"
+  timezone: America/Los_Angeles
+  place: Genova, Italy
+  sub: SC
+  
 - title: AACL-IJCNLP
   hindex: -1
   year: 2020

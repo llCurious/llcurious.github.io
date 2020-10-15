@@ -4,9 +4,9 @@
   hindex: 46
   year: 2021
   id: sp21
-  link: https://www.ieee-security.org/TC/SP2021/
-  deadline: "2020-09-03 23:59"
-  timezone: America/Los_Angeles
+  link: https://www.ieee-security.org/TC/SP2021
+  deadline: "2020-12-03 23:59"
+  timezone: UTC-12
   date: "May 23 – 27 2021"
   place: San Francisco, California, USA
   sub: SC
@@ -44,7 +44,7 @@
   date: "August 11-13"
   place: Vancouver, BC, Canada.
   sub: SC
-  timezone: America/Los_Angeles
+  timezone: UTC-12
   
 - title: NDSS
   description: ISOC Network and Distributed System Security Symposium

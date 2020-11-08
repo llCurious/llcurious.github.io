@@ -24,8 +24,8 @@
   
 - title: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2020
-  id: CCS2020
+  year: 2021
+  id: CCS2021
   link: https://www.sigsac.org/ccs/CCS2020/
   deadline: "2021-01-20 23:59"
   date: "November 9-13"
@@ -38,8 +38,8 @@
   year: 2021
   id: usenix21
   link: https://www.usenix.org/conference/usenixsecurity21
-  deadline: "2020-10-15 23:59"
-  note: "Reject & Resubmit in this Fall Cycle is available."
+  deadline: "2021-2-4 23:59"
+  note: "Winter Deadline"
   comment: Rolling deadline every four months.
   date: "August 11-13"
   place: Vancouver, BC, Canada.
